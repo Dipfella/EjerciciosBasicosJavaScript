@@ -1,3 +1,5 @@
+//Descripción del ejercicio en el archivo README.md
+
 var num1 = parseInt(prompt("digite un numero", 0));
 var num2 = parseInt(prompt("digite otro numero", 0));
 
