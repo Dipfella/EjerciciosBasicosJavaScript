@@ -6,3 +6,6 @@ Plus Ejercicio 1: Si los numeros no son un numero o son menores o iguales a 0, l
 
 Ejercicio 2 :
 Utilizando un bucle, mostrar la suma y la media de los numeros introducidos hasta introducir un numero negativo y ahi mostrar el resultado
+
+Ejercicio 3 : 
+Hacer un programa que muestre todos los numeros entre dos numeros introducidos por el usuario
